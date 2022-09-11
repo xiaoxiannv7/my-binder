@@ -1,0 +1,11 @@
+name: my-binder
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - jupytext
+  - jupyterlab
+  - python
+  - numpy
+  - matplotlib-base
+  - ipympl
