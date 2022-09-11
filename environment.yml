@@ -9,3 +9,4 @@ dependencies:
   - numpy
   - matplotlib-base
   - ipympl
+  - pandas
